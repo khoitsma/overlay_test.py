@@ -1,5 +1,5 @@
 # credit: github.com/mikaelho/pythonista-gestures
-# credit: github.com/mikaelho/pythonista-gestures
+# credit: github.com/jsbain/viewbrowser
 
 from overlay import Overlay, AppWindows
 from gestures import Gestures
