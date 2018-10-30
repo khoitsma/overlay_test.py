@@ -1,3 +1,6 @@
+# credit: github.com/mikaelho/pythonista-gestures
+# credit: github.com/mikaelho/pythonista-gestures
+
 from overlay import Overlay, AppWindows
 from gestures import Gestures
 import ui
