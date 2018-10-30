@@ -8,12 +8,6 @@ import ui
 if __name__=='__main__':
     
     
-    #view = ui.View(name='Hello')
-    #view.frame = (0, 0, 240, 240)
-    #view.flex = 'WH'
-    #view.background_color = 'white'
-    
-    
     iv0=ui.ImageView(frame=(0,0,300,300))
     iv0.image=ui.Image.named('test:Peppers')
     iv0.name='OMAIN▪️'
